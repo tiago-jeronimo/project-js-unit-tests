@@ -28,13 +28,3 @@ describe('2 - Implemente os casos de teste para a função `numbers`', () => {
 // Escreva um teste em que a função recebe [1, 2, '3', 4, 5] e retorna false
 // Escreva um teste em que a função recebe [1, 'a', 3] e retorna false
 // Escreva um teste em que a função recebe [' '] e retorna false
-
-
-// const numbers = (myArray) => {
-//   for (let i = 0; i < myArray.length; i += 1) {
-//     if (typeof myArray[i] !== 'number') {
-//       return false;
-//     }
-//   }
-//   return true;
-// };  npm test tests/numbers.spec.js
