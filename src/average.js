@@ -39,5 +39,5 @@ module.exports = average;
 // 22 se o tipo e o valor de type for diferente de 'number'
 // 23 será retornado undefined 
 // 24 soma ao valor da variavel 'sum' a soma das posiçoes do array
-// 25 cria constante que arrendorá para o inteiro mais proximo a divisão das somas das posições dos arrays pelo quantidade de posições
-// 26 retorna a constante
+// 26 cria constante que arrendorá para o inteiro mais proximo a divisão das somas das posições dos arrays pelo quantidade de posições
+// 27 retorna a constante
